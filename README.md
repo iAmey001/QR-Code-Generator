@@ -6,7 +6,7 @@ This QR code is created using Google Chart API, and can store up to four thousan
 
 Checkout the website here: <a href="https://generate-qrcodex.netlify.app/">Click Here</a>
 
-## Technologies Used
+## Technologies Used:
 
    <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank" > 
